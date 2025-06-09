@@ -15,5 +15,6 @@ This is my first solo project within Digital Futures, where I was tasked to find
 The two key insights I uncovered in the data were:  
 1) The importance of the clean data and how it effects this dataset
 2) The profitability of the movie industry over time and per season of the year
+<br><br/>
 
-   
+   ![TMDB Analysis](https://miro.medium.com/v2/resize:fit:512/1*UaUZmFbQmQ4ZstvGQ-JFeA.png)
