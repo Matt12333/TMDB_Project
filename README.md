@@ -4,13 +4,13 @@
 I was tasked to find:  
 
 - Two key insights from the TMBD dataset
-- Two movies from the dataset that were particularly interesting
+- Two movies from the dataset that stand out in the TMDB dataset
 <br><br/>
 
 ---
 <h2>Project Overview</h2>
 
-My first solo project within Digital Futures, where I was tasked to find two key insights and two movies from the dataset that were particularly interesting. It was a challenging dataset that required a lot of cleaning and I was held to a two day deadline before presenting the project.  
+My first independent project within Digital Futures, tasked with extracting two key insights and identifying two standout films from the TMDB dataset. The dataset required extensive cleaning due to inconsistencies and missing values. I operated under a tight two day deadline, applying data wrangling, exploratory analysis, and visualization techniques to uncover meaningful patterns and present actionable findings to stakeholders. 
 
 The two key insights I uncovered in the data were:  
 1) The importance of the clean data and how it effects this dataset
