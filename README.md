@@ -10,7 +10,7 @@ I was tasked to find:
 ---
 <h2>Project Overview</h2>
 
-This is my first solo project within Digital Futures, where I was tasked to find two key insights from the dataset. It was a challenging dataset that required a lot of cleaning.  
+My first solo project within Digital Futures, where I was tasked to find two key insights and two movies from the dataset that were particularly interesting. It was a challenging dataset that required a lot of cleaning and I was held to a two day deadline before presenting the project.  
 
 The two key insights I uncovered in the data were:  
 1) The importance of the clean data and how it effects this dataset
